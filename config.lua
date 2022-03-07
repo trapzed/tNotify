@@ -33,6 +33,7 @@ tttttt:::::::tttttt    N::::::N N::::N N::::::No:::::ooooo:::::otttttt:::::::ttt
 -- "Alert"
 -- "Info"
 -- "Warning"
+-- "Success"
 
 ConfigNotify = {}
 
@@ -42,3 +43,5 @@ ConfigNotify.Alert = "#eb4034"
 ConfigNotify.Info = "#bababa"
 
 ConfigNotify.Warning = "#ffc107"
+
+ConfigNotify.Success = "#00ff23"
